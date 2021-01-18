@@ -26,6 +26,7 @@ Please come join the server if you have any questions! [Espresso Aficionados Dis
 - [BDB Slayer Mod](breville/slayermod.md)
 - [BDB Needle Valve Upgrades](breville/needle.md)
 - [Pulling Shots in Pre-infusion Mode](breville/preinfusion.md)
+- [Thermoblock vs Thermojet](breville/thermoblockjet.md)
 
 ### Baratza
 - [Burr Alignment "Hyperaligned Vario"](baratza/alignment.md)
